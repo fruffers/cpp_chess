@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Practise/cpp_chess/build",
-  "command": "C:\\mingw_14.20\\mingw64\\bin\\c++.exe -DSFML_STATIC -IC:/Practise/cpp_chess/lib/SFML-3.0.0/include -g -std=gnu++17 -o CMakeFiles\\CppChess.dir\\src\\main.cpp.obj -c C:\\Practise\\cpp_chess\\src\\main.cpp",
-  "file": "C:/Practise/cpp_chess/src/main.cpp",
-  "output": "C:/Practise/cpp_chess/build/CMakeFiles/CppChess.dir/src/main.cpp.obj"
-}
-]
