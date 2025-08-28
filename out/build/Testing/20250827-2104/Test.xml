@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20250827-2104-Experimental"
+	Name="louise-ASUS-TUF-Gaming-A15-FA507NVR-FA507NVR"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="louise-ASUS-TUF-Gaming-A15-FA507NVR-FA507NVR"
+	OSRelease="6.8.0-65-generic"
+	OSVersion="#68~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jul 15 18:06:34 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="68"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15805"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2270.53"
+	>
+	<Testing>
+		<StartDateTime>Aug 27 22:19 BST</StartDateTime>
+		<StartTestTime>1756329542</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 27 22:19 BST</EndDateTime>
+		<EndTestTime>1756329542</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
