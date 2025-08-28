@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1"
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0,0,8,8" >
+	<title>Chess board with green squares</title>
+	<desc>A remix from https://openclipart.org/detail/330280/
+	</desc>
+	<defs>
+		<rect width="1" height="1" id="r" stroke-width="0" />
+		<pattern id="p" width="2" height="2" patternUnits="userSpaceOnUse" >
+			<use xlink:href="#r" fill="#fff" />
+			<use xlink:href="#r" x="1" y="1" fill="#fff" />
+			<use xlink:href="#r" x="1" fill="#49a248" />
+			<use xlink:href="#r" y="1" fill="#49a248" />
+		</pattern>
+	</defs>
+	<rect width="8" height="8" fill="url(#p)" stroke="#49a248" stroke-width=".002"/>
+</svg>
